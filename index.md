@@ -20,5 +20,11 @@ const profile: { name: string; role: string } = {
 ```
 
 ```bash
-$ git clone https://github.com/your-username/your-repo.git
+    $ git clone https://github.com/your-username/your-repo.git
 ```
+
+<!-- List -->
+
+- [x] Item 1
+- [ ] Item 2
+- [ ] Item 3

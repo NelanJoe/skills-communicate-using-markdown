@@ -9,3 +9,16 @@
 <!-- Add Image -->
 
 ![Beuty lake](https://images.pexels.com/photos/247600/pexels-photo-247600.jpeg?auto=compress&cs=tinysrgb&w=600)
+
+<!-- Code Blocks -->
+
+```typescript
+const profile: { name: string; role: string } = {
+  name: "Budi",
+  role: "Programmer",
+};
+```
+
+```bash
+$ git clone https://github.com/your-username/your-repo.git
+```
